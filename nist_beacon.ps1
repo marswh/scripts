@@ -1,0 +1,1 @@
+﻿Invoke-WebRequest -UseBasicParsing "https://beacon.nist.gov/rest/record/last" -ContentType "application/xml" -Method GET
